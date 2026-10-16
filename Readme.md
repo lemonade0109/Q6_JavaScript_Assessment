@@ -1,4 +1,4 @@
-## Q6 — JavaScript behaviour
+# BCM Assessment Q6
 
 Files:
 
